@@ -138,7 +138,6 @@ server {
 
 This setup has been a game-changer for serving geospatial data reliably. Try it out, and share your feedback or enhancements! 🌍
 
-## For More Queries
-I'm happy to help! Contact me at **django.infusion@gmail.com** or WhatsApp at **+92 303 7116786**.
+s
 
 #Geospatial #GeoServer #Docker #Nginx #GIS #DevOps
